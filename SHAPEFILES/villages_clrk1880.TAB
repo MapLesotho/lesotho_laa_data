@@ -1,0 +1,14 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 7
+    ID Decimal (8, 0) ;
+    NAME Char (16) Index 1 ;
+    DISTRICT Char (16) ;
+    TYPE Char (17) ;
+    MAP_NO_ Decimal (2, 0) ;
+    X_COORD Float ;
+    Y_COORD Float ;

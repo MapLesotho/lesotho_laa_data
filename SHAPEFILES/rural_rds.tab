@@ -1,0 +1,23 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 16
+    Z003_LINK Char (30) ;
+    X004_LINK Char (254) ;
+    OLD Char (254) ;
+    OLD_CORR Char (254) ;
+    DISTRICT Char (254) ;
+    FROM_CORR Char (254) ;
+    START_KM Float ;
+    END_KM Float ;
+    TO_CORR Char (254) ;
+    AUTHORITY Char (254) ;
+    REGION Char (254) ;
+    FROM_NAME Char (254) ;
+    TO_NAME Char (254) ;
+    SURF_TYPE Char (1) ;
+    LENGTH_KM_ Decimal (9, 2) ;
+    CONSTIT Char (14) ;
