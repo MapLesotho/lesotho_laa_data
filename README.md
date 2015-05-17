@@ -9,3 +9,4 @@ This repository contains datasets from the Lesotho Land Administration Authority
 All data here is solely the property of Lesotho Land Administration Authority. Any and all modification is not permitted.
 
 If you would like to find more about the #MapLesotho project please check out our website: http://maplesotho.wordpress.com.
+Ciarán Staunton
